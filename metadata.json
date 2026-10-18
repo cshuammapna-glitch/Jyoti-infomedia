@@ -1,0 +1,6 @@
+{
+  "name": "JYOTI INFOMEDIA - Electronics & Mobile Hub",
+  "description": "Premier electronics and gadget showroom located at Mahavir Marg, Kochadhaman, Kishanganj, Bihar featuring top brands like Apple, Samsung, Vivo, and live admin management dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
